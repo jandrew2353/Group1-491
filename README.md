@@ -87,4 +87,3 @@ Topic<N>_<Project_Name>/
 * **Milestone 4 (M4) — Evaluate & Validate**: Cross-validation, paradox resolution, bias-variance tradeoff, test set evaluation.
 * **Milestone 5 (M5) — Deliver**: Final model packaging, reproducible pipeline, and team presentation.
 
-*(For detailed grading rubrics and competency record questions, see the Project Milestones Master Guide on Canvas).*
