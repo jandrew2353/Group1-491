@@ -1,0 +1,9 @@
+fuel,kg_co2_per_mwh,note
+coal,1010.0,fleet average of the BA's coal units
+natural_gas,430.0,fleet average of the BA's gas units (combined cycle and combustion turbines)
+nuclear,0.0,no stack emissions
+wind,0.0,no stack emissions
+solar,0.0,no stack emissions
+hydro,0.0,no stack emissions
+other,0.0,"landfill gas and biomass; biogenic, counted as 0 in the city inventory"
+imports,520.0,average of the neighbouring balancing authorities that sell into the BA

@@ -1,0 +1,85 @@
+code,description,chapter_range,chapter
+A04.72,"Enterocolitis due to Clostridium difficile, not specified as recurrent",A00-B99,Certain infectious and parasitic diseases
+A41.51,Sepsis due to Escherichia coli [E. coli],A00-B99,Certain infectious and parasitic diseases
+A41.9,"Sepsis, unspecified organism",A00-B99,Certain infectious and parasitic diseases
+C18.9,"Malignant neoplasm of colon, unspecified",C00-D49,Neoplasms
+C25.9,"Malignant neoplasm of pancreas, unspecified",C00-D49,Neoplasms
+C34.90,Malignant neoplasm of unspecified part of unspecified bronchus or lung,C00-D49,Neoplasms
+C50.919,Malignant neoplasm of unspecified site of unspecified female breast,C00-D49,Neoplasms
+C61,Malignant neoplasm of prostate,C00-D49,Neoplasms
+C79.31,Secondary malignant neoplasm of brain,C00-D49,Neoplasms
+C92.00,"Acute myeloblastic leukemia, not having achieved remission",C00-D49,Neoplasms
+E10.10,Type 1 diabetes mellitus with ketoacidosis without coma,E00-E89,"Endocrine, nutritional and metabolic diseases"
+E11.10,Type 2 diabetes mellitus with ketoacidosis without coma,E00-E89,"Endocrine, nutritional and metabolic diseases"
+E86.0,Dehydration,E00-E89,"Endocrine, nutritional and metabolic diseases"
+E87.1,Hypo-osmolality and hyponatremia,E00-E89,"Endocrine, nutritional and metabolic diseases"
+F10.239,"Alcohol dependence with withdrawal, unspecified",F01-F99,"Mental, behavioral and neurodevelopmental disorders"
+F11.23,Opioid dependence with withdrawal,F01-F99,"Mental, behavioral and neurodevelopmental disorders"
+F20.9,"Schizophrenia, unspecified",F01-F99,"Mental, behavioral and neurodevelopmental disorders"
+F33.2,"Major depressive disorder, recurrent severe without psychotic features",F01-F99,"Mental, behavioral and neurodevelopmental disorders"
+G40.909,"Epilepsy, unspecified, not intractable, without status epilepticus",G00-G99,Diseases of the nervous system
+G45.9,"Transient cerebral ischemic attack, unspecified",G00-G99,Diseases of the nervous system
+G93.40,"Encephalopathy, unspecified",G00-G99,Diseases of the nervous system
+I16.1,Hypertensive emergency,I00-I99,Diseases of the circulatory system
+I21.09,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall,I00-I99,Diseases of the circulatory system
+I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I00-I99,Diseases of the circulatory system
+I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I00-I99,Diseases of the circulatory system
+I26.99,Other pulmonary embolism without acute cor pulmonale,I00-I99,Diseases of the circulatory system
+I35.0,Nonrheumatic aortic (valve) stenosis,I00-I99,Diseases of the circulatory system
+I46.9,"Cardiac arrest, cause unspecified",I00-I99,Diseases of the circulatory system
+I48.91,Unspecified atrial fibrillation,I00-I99,Diseases of the circulatory system
+I50.23,Acute on chronic systolic (congestive) heart failure,I00-I99,Diseases of the circulatory system
+I50.33,Acute on chronic diastolic (congestive) heart failure,I00-I99,Diseases of the circulatory system
+I61.9,"Nontraumatic intracerebral hemorrhage, unspecified",I00-I99,Diseases of the circulatory system
+I63.9,"Cerebral infarction, unspecified",I00-I99,Diseases of the circulatory system
+J10.1,Influenza due to other identified influenza virus with other respiratory manifestations,J00-J99,Diseases of the respiratory system
+J18.9,"Pneumonia, unspecified organism",J00-J99,Diseases of the respiratory system
+J21.9,"Acute bronchiolitis, unspecified",J00-J99,Diseases of the respiratory system
+J44.1,Chronic obstructive pulmonary disease with (acute) exacerbation,J00-J99,Diseases of the respiratory system
+J45.901,Unspecified asthma with (acute) exacerbation,J00-J99,Diseases of the respiratory system
+J69.0,Pneumonitis due to inhalation of food and vomit,J00-J99,Diseases of the respiratory system
+J96.01,Acute respiratory failure with hypoxia,J00-J99,Diseases of the respiratory system
+K35.80,Unspecified acute appendicitis,K00-K95,Diseases of the digestive system
+K56.609,"Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction",K00-K95,Diseases of the digestive system
+K57.32,Diverticulitis of large intestine without perforation or abscess without bleeding,K00-K95,Diseases of the digestive system
+K70.31,Alcoholic cirrhosis of liver with ascites,K00-K95,Diseases of the digestive system
+K80.00,Calculus of gallbladder with acute cholecystitis without obstruction,K00-K95,Diseases of the digestive system
+K85.90,"Acute pancreatitis without necrosis or infection, unspecified",K00-K95,Diseases of the digestive system
+K92.2,"Gastrointestinal hemorrhage, unspecified",K00-K95,Diseases of the digestive system
+L03.90,"Cellulitis, unspecified",L00-L99,Diseases of the skin and subcutaneous tissue
+M16.11,"Unilateral primary osteoarthritis, right hip",M00-M99,Diseases of the musculoskeletal system and connective tissue
+M17.11,"Unilateral primary osteoarthritis, right knee",M00-M99,Diseases of the musculoskeletal system and connective tissue
+M48.061,"Spinal stenosis, lumbar region without neurogenic claudication",M00-M99,Diseases of the musculoskeletal system and connective tissue
+M62.82,Rhabdomyolysis,M00-M99,Diseases of the musculoskeletal system and connective tissue
+N10,Acute pyelonephritis,N00-N99,Diseases of the genitourinary system
+N17.9,"Acute kidney failure, unspecified",N00-N99,Diseases of the genitourinary system
+N20.0,Calculus of kidney,N00-N99,Diseases of the genitourinary system
+N39.0,"Urinary tract infection, site not specified",N00-N99,Diseases of the genitourinary system
+O13.4,"Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating childbirth",O00-O9A,"Pregnancy, childbirth and the puerperium"
+O14.14,Severe pre-eclampsia complicating childbirth,O00-O9A,"Pregnancy, childbirth and the puerperium"
+O21.1,Hyperemesis gravidarum with metabolic disturbance,O00-O9A,"Pregnancy, childbirth and the puerperium"
+O24.420,"Gestational diabetes mellitus in childbirth, diet controlled",O00-O9A,"Pregnancy, childbirth and the puerperium"
+O34.211,Maternal care for low transverse scar from previous cesarean delivery,O00-O9A,"Pregnancy, childbirth and the puerperium"
+O42.92,"Full-term premature rupture of membranes, unspecified as to length of time between rupture and onset of labor",O00-O9A,"Pregnancy, childbirth and the puerperium"
+O48.0,Post-term pregnancy,O00-O9A,"Pregnancy, childbirth and the puerperium"
+O60.14X0,"Preterm labor third trimester with preterm delivery third trimester, not applicable or unspecified",O00-O9A,"Pregnancy, childbirth and the puerperium"
+O80,Encounter for full-term uncomplicated delivery,O00-O9A,"Pregnancy, childbirth and the puerperium"
+P07.33,"Preterm newborn, gestational age 30 completed weeks",P00-P96,Certain conditions originating in the perinatal period
+P07.37,"Preterm newborn, gestational age 34 completed weeks",P00-P96,Certain conditions originating in the perinatal period
+P22.0,Respiratory distress syndrome of newborn,P00-P96,Certain conditions originating in the perinatal period
+P36.9,"Bacterial sepsis of newborn, unspecified",P00-P96,Certain conditions originating in the perinatal period
+P59.9,"Neonatal jaundice, unspecified",P00-P96,Certain conditions originating in the perinatal period
+R07.9,"Chest pain, unspecified",R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings"
+R41.82,"Altered mental status, unspecified",R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings"
+R55,Syncope and collapse,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings"
+S06.5X0A,"Traumatic subdural hemorrhage without loss of consciousness, initial encounter",S00-T88,"Injury, poisoning and certain other consequences of external causes"
+S27.0XXA,"Traumatic pneumothorax, initial encounter",S00-T88,"Injury, poisoning and certain other consequences of external causes"
+S72.001A,"Fracture of unspecified part of neck of right femur, initial encounter for closed fracture",S00-T88,"Injury, poisoning and certain other consequences of external causes"
+S82.201A,"Unspecified fracture of shaft of right tibia, initial encounter for closed fracture",S00-T88,"Injury, poisoning and certain other consequences of external causes"
+T07.XXXA,"Unspecified multiple injuries, initial encounter",S00-T88,"Injury, poisoning and certain other consequences of external causes"
+T40.2X1A,"Poisoning by other opioids, accidental (unintentional), initial encounter",S00-T88,"Injury, poisoning and certain other consequences of external causes"
+T50.901A,"Poisoning by unspecified drugs, medicaments and biological substances, accidental (unintentional), initial encounter",S00-T88,"Injury, poisoning and certain other consequences of external causes"
+U07.1,COVID-19,U00-U85,Codes for special purposes
+Z38.00,"Single liveborn infant, delivered vaginally",Z00-Z99,Factors influencing health status and contact with health services
+Z38.01,"Single liveborn infant, delivered by cesarean",Z00-Z99,Factors influencing health status and contact with health services
+Z51.11,Encounter for antineoplastic chemotherapy,Z00-Z99,Factors influencing health status and contact with health services

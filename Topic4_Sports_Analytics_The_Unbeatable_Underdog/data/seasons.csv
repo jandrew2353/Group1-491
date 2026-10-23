@@ -1,0 +1,13 @@
+season,day_zero,region_w,region_x,region_y,region_z
+2015,11/03/2014,Midwest,South,West,East
+2016,11/02/2015,Midwest,South,East,West
+2017,10/31/2016,West,East,Midwest,South
+2018,10/30/2017,South,Midwest,West,East
+2019,11/05/2018,Midwest,West,East,South
+2020,11/04/2019,East,Midwest,West,South
+2021,2020-11-02,South,Midwest,West,East
+2022,2021-11-01,East,Midwest,South,West
+2023,2022-10-31,South,West,East,Midwest
+2024,2023-11-06,Midwest,West,South,East
+2025,2024-11-04,East,West,South,Midwest
+2026,2025-11-03,Midwest,West,East,South
