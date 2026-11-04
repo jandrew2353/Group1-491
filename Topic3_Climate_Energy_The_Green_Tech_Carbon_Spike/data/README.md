@@ -10,7 +10,7 @@
 
 * **Domain**: Municipal Electric Grid & Decarbonization Policy
 # Question in Teams Own Words:
-* **The Core Question**: A city replaced 10,000 gasoline-powered vehicles with electric vehicles in an effort to reduce carbon emissions. However, after the replacement, the city reported an increase in total carbon emissions. This creates a problem because the city expected the total carbon emmissions to be lower after the replacement of gas vehicles. 
+**The Core Question**: A city replaced 10,000 gasoline-powered vehicles with electric vehicles in an effort to reduce carbon emissions. However, after the replacement, the city reported an increase in total carbon emissions. This creates a problem because the city expected the total carbon emmissions to be lower after the replacement of gas vehicles. 
 
 Although electric vehicles do not produce emissions from gas while driving, they require electricity to charge. The emissions associated with that electricity depend on how the electricity is generated and when the vehicles are charged. Electricity demand can also change throughout the year due to weather, heating, cooling, and other residential, commercial, and industrial factors. Since the electrical grid serves the entire city and surrounding area, changes in total grid emissions cannot automatically be attributed to EV emmissions.
 
