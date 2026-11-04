@@ -45,8 +45,4 @@ RQ3: How many emissions were generated from EVs charging across the city?
 * fleet monthly stats
 * vehicles
 * stations
-* 
-
-| File | What it is | Folder Link |
-|:---:|:---|:---|:---|
-| PROJECT.md | blah blah | [`PROJECT.md`](./Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/PROJECT.md) |
+  
