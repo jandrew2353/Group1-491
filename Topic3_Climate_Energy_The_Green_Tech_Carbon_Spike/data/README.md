@@ -22,7 +22,6 @@ The city council must decide whether to maintain, modify, or repeal the electric
 
 To make this decision, the council needs to understand whether replacing the 10,000 gasoline-powered vehicles with EVs resulted in an estimated reduction in vehicle related emissions and whether EV charging patterns or electricity generation contributed to the overall emissions situations. We will examine the data to idenitify possible explanations and provide evidence to support the councils decision.
 
-* **Contents**: [`PROJECT.md`](./Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/PROJECT.md), [`data/DATA_DICTIONARY.md`](./Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/data/DATA_DICTIONARY.md), charging sessions, grid hourly dispatch, weather, fleet monthly stats, vehicles, stations.
 
 # Research Questions & Goals:
 RQ1: How did weather conditions relate to electrical demand and carbon emissions?
@@ -36,3 +35,6 @@ RQ2: How did at home charging at night effect load on the power grid and carbon 
 RQ3: How many emissions were generated from EVs charging across the city?
 
 **Goal**: Calculate total draw from all EVs charging and figure the amount of emissions produced.
+
+* **Contents**: [`PROJECT.md`](./Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/PROJECT.md), [`data/DATA_DICTIONARY.md`](./Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/data/DATA_DICTIONARY.md), charging sessions, grid hourly dispatch, weather, fleet monthly stats, vehicles, stations.
+* **Contents Guide **
