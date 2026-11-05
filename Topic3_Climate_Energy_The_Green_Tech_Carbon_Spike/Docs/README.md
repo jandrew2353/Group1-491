@@ -46,3 +46,5 @@ RQ3: How many emissions were generated from EVs charging across the city?
 * vehicles
 * stations
   
+### AI USE DISCLOSURE 
+We used AI to help with Mardown syntax for documentation and for insight on what the libraries pandas and numpy can do. 

@@ -1,0 +1,4 @@
+fuel,kg_co2_per_mwh,note
+coal,1010.0,fleet average of the BA's coal units
+natural_gas,430.0,fleet average of the BA's gas units (combined cycle and combustion turbines)
+imports,520.0,average of the neighbouring balancing authorities that sell into the BA
