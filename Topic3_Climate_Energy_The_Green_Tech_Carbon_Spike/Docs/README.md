@@ -45,6 +45,14 @@ RQ3: How many emissions were generated from EVs charging across the city?
 * fleet monthly stats
 * vehicles
 * stations
-  
+
+| File | Description | Link |
+|:---:|:---|:---|:---|
+| **cleaning_data_full.ipynb** | A notebook that contains all steps for the data cleaning proccess | ['cleaning_data_full.ipynb/'](Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/data/cleaning_data_full.ipynb/) |
+| **Problem and Hypothesis.md** | Contains the problem narrowed down with our hypothesis for testing. | ['Problem and Hypotheses.md/'](.Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/Docs/Problem and Hypothesis.md/) |
+
 ### AI USE DISCLOSURE 
-We used AI to help with Mardown syntax for documentation and for insight on what the libraries pandas and numpy can do. 
+Areas affected:
+* Mardown syntax for documentation
+* Insight on pandas and numpy functions/operations
+* ML Flow connection issues
