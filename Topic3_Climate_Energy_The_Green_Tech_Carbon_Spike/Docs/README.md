@@ -36,20 +36,12 @@ RQ3: How many emissions were generated from EVs charging across the city?
 **Goal**: Calculate total draw from all EVs charging and figure the amount of emissions produced.
 
 ## Contents and Contents Guide
-* **Contents**:
-* [`PROJECT.md`](./Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/PROJECT.md)
-*  [`data/DATA_DICTIONARY.md`](./Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/data/DATA_DICTIONARY.md)
-* charging_sessions.csv.gz
-* grid hourly dispatch
-* weather
-* fleet monthly stats
-* vehicles
-* stations
 
 | File | Description | Link |
 |:---:|:---|:---|
 | **cleaning_data_full.ipynb** | A notebook that contains all steps for the data cleaning proccess | ['cleaning_data_full.ipynb/'](Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/data/cleaning_data_full.ipynb/) |
 | **problem_and_hypothesis.md** | Contains the problem narrowed down with our hypothesis for testing. | ['problem_and_hypothesis.md/'](Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/Docs/problem_and_hypothesis.md/) |
+| **data_exploration.ipynb** | The ML Flow file used for data exploration | On ML Flow |
 
 ### AI USE DISCLOSURE 
 Areas affected:
