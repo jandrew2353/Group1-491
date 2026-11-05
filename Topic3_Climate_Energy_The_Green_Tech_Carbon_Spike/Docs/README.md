@@ -1,6 +1,6 @@
 # Course Final Projects
-## CSC 4913 / CSC 5573: Model Selection and Validation (Fall 2026)
-### Louisiana Tech University — Computer Science
+** CSC 4913 / CSC 5573: Model Selection and Validation (Fall 2026) **
+** Louisiana Tech University — Computer Science **
 
 # Team 1 
 ## Members: Kaityln Benoit, Cooper Boling, Jason Dempster
