@@ -23,6 +23,19 @@ The city council must decide whether to maintain, modify, or repeal the electric
 
 To make this decision, the council needs to understand whether replacing the 10,000 gasoline-powered vehicles with EVs resulted in an estimated reduction in vehicle related emissions and whether EV charging patterns or electricity generation contributed to the overall emissions situations. We will examine the data to idenitify possible explanations and provide evidence to support the councils decision.
 
+## Inputs from the domain experts
+
+1. Power plants are dispatched in cost order as demand rises.
+2. The grid's emissions in an hour depend on which plants are running in that hour.
+3. Heating in the city is mostly natural gas and electric.
+4. EV owners mostly charge at home, overnight.
+5. A gallon of gasoline emits about 8.9 kg of CO2 when burned.
+6. The grid serves the whole city, not only the EVs.
+
+## Graph with inputs
+
+<img width="780" height="463" alt="image" src="https://github.com/user-attachments/assets/943b249f-5d0c-4495-be8e-649eb0f011ec" />
+
 
 ## Research Questions & Goals:
 RQ1: How did weather conditions relate to electrical demand and carbon emissions?
