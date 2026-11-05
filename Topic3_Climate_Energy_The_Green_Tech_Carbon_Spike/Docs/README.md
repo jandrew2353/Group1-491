@@ -17,7 +17,7 @@ Although electric vehicles do not produce emissions from gas while driving, they
 
 The purpose of this project is to investigate the relationship between EV adoption, charging behavior, electricity generation, weather conditions, and carbon emissions. We will estimate the emissions associated with charging the 10,000 EVs and compare them with the estimated gasoline emissions avoided by replacing the original vehicles. The analysis will also examine broader electricity demand and gasoline sales trends to identify patterns that may help explain the reported increase in emissions.
 
-## Decision to Be Made
+## Decision to Be Made:
 
 The city council must decide whether to maintain, modify, or repeal the electric vehicle replacement mandate.
 
