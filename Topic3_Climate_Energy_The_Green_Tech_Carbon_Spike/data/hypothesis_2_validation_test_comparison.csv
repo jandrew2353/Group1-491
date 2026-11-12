@@ -1,0 +1,3 @@
+target,candidate_label,validation_rmse,test_mae,test_rmse,test_r2,test_minus_validation_rmse
+electricity_demand,Calendar + temperature + squared temperature,32.90319156328516,23.566209045406723,29.866920384098325,0.8810410916866643,-3.036271179186837
+grid_CO2_emissions,Calendar + temperature + squared temperature,35214.12013377324,28952.344168300762,36302.46423867389,0.5289540953473166,1088.3441049006506

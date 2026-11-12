@@ -1,0 +1,3 @@
+prediction,cold_minus_warm,percent_difference,verdict
+demand_mwh,79.88427575829564,10.35373504692975,Supported by observed comparison
+daily_CO2_kg,72417.98685356783,19.762416671382343,Supported by observed comparison
