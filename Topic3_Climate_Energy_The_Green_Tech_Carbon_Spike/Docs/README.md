@@ -176,6 +176,32 @@ Estimated grid CO₂ emissions did not include imported electricity because a se
 
 Grid demand and emissions represent the broader balancing authority, not electricity used exclusively by the 10,000 replacement EVs.
 
+### Slides 1–14: Problem Statement, Data, and Data Cleaning
+
+The first 14 slides introduce the project, explain the problem and expert inputs, and show the original datasets, cleaned datasets, and data transformations. The tables can be reproduced using the supplied datasets and the data-cleaning notebook.
+
+| Slide | Information presented | Source |
+|---|---|---|
+| 1–5 | Project overview, problem statement, and expert inputs | README.md — Core Question and Domain Expert Inputs |
+| 7 | Original hourly power grid data (five records) | Supplied hourly grid dataset |
+| 8 | Original hourly weather data (five records) | Supplied hourly weather dataset |
+| 9 | Original EV charging sessions (five records) | Supplied charging sessions dataset |
+| 10 | Cleaned EV charging session details (five records) | cleaning_data_full.ipynb |
+| 11 | Cleaned EV charging session and vehicle details (five records) | cleaning_data_full.ipynb |
+| 12 | Combined hourly grid generation data (five records) | combined_hourly_clean.csv |
+| 13 | Combined weather data and aligned timestamps (five records) | combined_hourly_clean.csv |
+| 14 | Vehicle cleaning: 10,000 records retained | cleaning_data_full.ipynb |
+| 14 | Station cleaning: 239 records retained | cleaning_data_full.ipynb |
+| 14 | Charging session cleaning: 2,927,187 original records, 44,045 removed, 2,883,142 remaining after removing missing essential values | cleaning_data_full.ipynb |
+
+**Reproducing the data tables:**
+
+1. Open `Topic3_Climate_Energy_The_Green_Tech_Carbon_Spike/data/cleaning_data_full.ipynb`.
+2. Load the supplied raw grid, weather, vehicle, station, and charging-session datasets.
+3. Run the notebook's cleaning and merging cells in order.
+4. Use the generated cleaned datasets to reproduce the five-record tables shown on slides 10–13.
+5. Use the notebook's cleaning summary to reproduce the data transformation table on slide 14.
+
 4. Reproducing the Machine Learning Experiments
 
 The H2 machine learning experiment uses three candidate feature sets:
