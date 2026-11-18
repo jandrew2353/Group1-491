@@ -224,6 +224,30 @@ Three-fold expanding time-series cross-validation is performed within the traini
 
 The notebooks contain the code used to generate the model comparisons, evaluation metrics, and visualizations.
 
+### Selected Model Saved in MLflow
+
+**Experiment:** `M3_H1_Selected_Model`
+
+**Model:** `H1_Final_Selected_Model`
+
+**MLflow Run ID:** `1fa48d5c6fd54f1b88a6dbaf9367c392`
+
+**Model URI:** `runs:/1fa48d5c6fd54f1b88a6dbaf9367c392/model`
+
+**Verification:** The model was successfully loaded from its MLflow run and generated 967 predictions.
+
+### Model Monitoring
+
+**Monitoring metric:** Mean Absolute Error (MAE) in MW.
+
+**Review threshold:** Trigger a model review if the rolling 30-day MAE exceeds 120% of the final test MAE.
+
+This monitoring threshold is a proposed rule for identifying possible model performance degradation.
+
+### Model Monitoring
+
+Monitor the model's rolling 30-day Mean Absolute Error (MAE) in MW. If the MAE exceeds 51.60 MW (20% above the baseline validation MAE of 43.00 MW), review the model for possible performance degradation.
+
 5. Reproducibility Notes
 
 To reproduce the results:
